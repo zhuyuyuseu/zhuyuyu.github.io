@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: defalt
 title: About
 permalink: /about/
 ---
