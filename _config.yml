@@ -18,16 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Stellar Radiance
+title: 云中数智 - Cloudwise Insights
 domain: zhuyuyuseu.github.io
 email: zhuyuyseu@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >-
+  一探数据与AI的奇妙世界。我们分享数据科学、人工智能和机器学习的最新见解和趋势，为您揭示数据和智能的无限可能性。
+  <br>
+  Exploring the Fascinating Realm of Data and AI. We share the latest insights and trends in data science, artificial intelligence, and machine learning, unveiling the boundless potential of data and intelligence.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "zhuyuyuseu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zhuyuyuseu
+
+github: 
+  is_project_page: false
+show_downloads: false
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
